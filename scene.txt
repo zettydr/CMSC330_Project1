@@ -1,0 +1,4 @@
+Scene Polygons (500, 500)
+RightTriangle Color (255, 0, 0) at (50, 30) Height 100 Width 300;
+Text Color(0, 0, 0) at (400, 200) 1;
+End.
